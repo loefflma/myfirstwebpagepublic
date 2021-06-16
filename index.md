@@ -13,7 +13,7 @@
 			<li> <a href="https://www.sueddeutsche.de/"> Süddeutsche Zeitung </a></li>
 		</ul>
 		<p>I'm hosted with GitHub Pages.</p>
+		<img src="https://www.elchburger.de/sites/default/files/styles/node/public/field/image/artikel/schweden/schweden-geographie/siljan-schweden.jpg?itok=AEtTFAqQ" alt="Schöner schwedischer See">
 		<a href="https://loefflma.github.io/myfirstwebpagepublic/about/impressum"> Impressum </a>
-		<img src="https://www.elchburger.de/sites/default/files/styles/node/public/field/image/artikel/schweden/schweden-geographie/siljan-schweden.jpg?itok=AEtTFAqQ">
 	</body>
 </html>
