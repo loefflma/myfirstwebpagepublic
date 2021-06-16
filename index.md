@@ -12,5 +12,6 @@
 			<li> <a href="https://www.sueddeutsche.de/"> Süddeutsche Zeitung </a></li>
 		</ul>
 		<p>I'm hosted with GitHub Pages.</p>
+		<a href="https://loefflma.github.io/myfirstwebpagepublic/about/impressum"> Impressum </a>
 	</body>
 </html>
