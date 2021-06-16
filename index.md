@@ -14,5 +14,6 @@
 		</ul>
 		<p>I'm hosted with GitHub Pages.</p>
 		<a href="https://loefflma.github.io/myfirstwebpagepublic/about/impressum"> Impressum </a>
+		<img src="https://www.elchburger.de/sites/default/files/styles/node/public/field/image/artikel/schweden/schweden-geographie/siljan-schweden.jpg?itok=AEtTFAqQ">
 	</body>
 </html>
