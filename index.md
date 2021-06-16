@@ -7,8 +7,8 @@
 		<h1>Diese Website befindet sich noch in der Entwicklung</h1>
 		<h2> Interessante Links: </h2>
 		<ul>
-			<li> <a href="www.google.de"> Google </li>
-			<li> <a href="sz.de"> Süddeutsche Zeitung </li>
+			<li> <a href="www.google.de"> Google </a></li>
+			<li> <a href="sz.de"> Süddeutsche Zeitung </a></li>
 		</ul>
 		<p>I'm hosted with GitHub Pages.</p>
 	</body>
