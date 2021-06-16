@@ -1,8 +1,9 @@
 
 <!DOCTYPE html>
+
 <html>
 	<head>
-		<title> Meine erste Website (öffentlich) </title>
+		<title>Meine erste Website (öffentlich)</title>
 	</head>
 	<body>
 		<h1>Diese Website befindet sich noch in der Entwicklung</h1>
